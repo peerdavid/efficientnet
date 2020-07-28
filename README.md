@@ -69,7 +69,7 @@ from tensorflow.keras.models import load_model
 model = load_model('path/to/model.h5')
 ```
 
-See the complete example of loading the model and making an inference in the Jupyter notebook [here](https://github.com/qubvel/efficientnet/blob/master/examples/inference_example.ipynb).
+See the complete example of loading the model and making an inference in the Jupyter notebook [here](https://github.com/peerdavid/efficientnet/blob/master/examples/inference_example.ipynb).
 
 ## Models
 
@@ -99,7 +99,7 @@ The performance of each model variant using the pre-trained weights converted fr
 ### Installing from the source
 
 ```bash
-$ pip install -U git+https://github.com/qubvel/efficientnet
+$ pip install -U git+https://github.com/peerdavid/efficientnet
 ```
 
 ### Installing from PyPI

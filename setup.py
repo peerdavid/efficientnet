@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
 # Note: To use the 'upload' functionality of this file, you must:
@@ -28,7 +28,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = "efficientnet"
 DESCRIPTION = "EfficientNet model re-implementation. Keras and TensorFlow Keras."
-URL = "https://github.com/qubvel/efficientnet"
+URL = "https://github.com/peerdavid/efficientnet"
 EMAIL = "qubvel@gmail.com"
 AUTHOR = "Pavel Yakubovskiy"
 REQUIRES_PYTHON = ">=2.7.0"
@@ -131,7 +131,7 @@ setup(
         # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
         "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 2",
         "Programming Language :: Python :: Implementation :: CPython",
         "Programming Language :: Python :: Implementation :: PyPy",
     ],
