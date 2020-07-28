@@ -31,7 +31,7 @@ DESCRIPTION = "EfficientNet model re-implementation. Keras and TensorFlow Keras.
 URL = "https://github.com/qubvel/efficientnet"
 EMAIL = "qubvel@gmail.com"
 AUTHOR = "Pavel Yakubovskiy"
-REQUIRES_PYTHON = ">=3.0.0"
+REQUIRES_PYTHON = ">=2.7.0"
 VERSION = None
 
 # The rest you shouldn't have to touch too much :)
